@@ -36,6 +36,3 @@ pip install -r requirements.txt# haystack_customer_service_project
 
 git clone https://huggingface.co/CrabWade/my_first_model_repo
 # haystack_customer_service_project
-# new_model
-# haystack_customer_service_project
-# haystack_customer_service_project
