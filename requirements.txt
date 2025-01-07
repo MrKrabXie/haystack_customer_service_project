@@ -1,0 +1,7 @@
+farm-haystack[colab, inference, metrics]
+langchain
+huggingface_hub
+transformers
+datasets
+langchain_community
+pandas
